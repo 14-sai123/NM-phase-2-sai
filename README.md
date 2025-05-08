@@ -1,13 +1,14 @@
 # Disease Prediction using Machine Learning
 
 ## Project Title
-Enhancing Disease Prediction with AI-Driven Patient Data Analysis
+Transforming health care Disease Prediction with AI power based on Patient Data 
 
 ## Team Members
-- Pavan Kumar S – Team Leader & Data Scientist
-- Naveen R – Data Analyst
-- Navinesh B – Developer
-- Perumalsamy R.P – Documentation & Presentation Lead
+- B. chandu – Team Leader & Data Scientist
+- k. kumar– Data Analyst
+- B. sudheer– Developer
+- ch. sivakumar– Documentation & Presentation Lead
+-  B. sai - feature engineering
 
 ## Problem Statement
 The healthcare industry faces challenges in early diagnosis due to limited resources and delayed testing. This project uses ML models to predict the likelihood of diseases using structured patient health data.
